@@ -116,3 +116,11 @@ Excellent analytical and problem-solving skills.
 Strong attention to detail and a commitment to delivering high-quality results.
 Ability to work independently and as part of a collaborative team.
 Experience with test management tools is a plus.
+
+
+Experience in creating key test deliverables such as test strategies, plans, scripts, scenarios and test data.
+Proven track record of working with microservices, event-driven and data intensive applications. 
+Experience in managing the end-to-end test process through functional and non-functional testing (performance and security).
+Strong desire to innovate and automate with a wide range of toolchain.
+Experience working in an Agile environment is highly desired.
+Experience working in Docker, CI/CD and DevSecOps practices is highly desired.
