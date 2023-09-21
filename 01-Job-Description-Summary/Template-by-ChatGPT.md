@@ -41,6 +41,7 @@ Education:
 [University Name], [City, State]
 [Graduation Year]
 
+
 Skills:
 - Software Testing
 - Test Planning and Execution
