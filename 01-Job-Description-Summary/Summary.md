@@ -124,3 +124,123 @@ Experience in managing the end-to-end test process through functional and non-fu
 Strong desire to innovate and automate with a wide range of toolchain.
 Experience working in an Agile environment is highly desired.
 Experience working in Docker, CI/CD and DevSecOps practices is highly desired.
+
+
+Leading and managing a team of 2 – 3 quality technicians.
+Providing technical leadership and training for the quality assurance team.
+Recording and reporting to senior management on the quality performance of the business.
+Producing and maintaining CMM programs, files, operations, and reports. 
+Producing QC processes and documents and supporting production and assembly personnel to meet ‘First Off’ and validation inspection requirements in a timely and efficient manner.
+Undertaking process quality control checks and audits across all operations at regular intervals.
+Working on continuous improvement activities.
+Being a genuine team player and working with other functions in the business, when required, to produce excellent business outcomes. 
+
+
+To apply your extensive background and experience in quality control, metrology and CMM programming and operations to support the production of a wide variety of products within defined specifications and tolerances in a timely and efficient manner. 
+To be precise and detailed focused, motivated to ensure the production of high-quality components to set standards, tolerances, and timeframes, yet able to maintain a flexible, balanced approach and attitude due to the variety of work and changes in priorities to meet customer requirements. 
+To apply your initiative, eye for detail and passion for quality to support production and assembly operations to get the job done, and work in an open and collaborative way with all stakeholders. 
+To thrive at being part of a professional team in a fast paced, customer orientated environment that is the future.  A great attitude and able to motivate, coordinate and develop a tight team of dedicated quality technicians.
+
+
+Ideally 3+ years’ experience at Senior Quality Technician level within a precision machining and manufacturing environment.
+Ideally 3+ years of CMM Programming and operating experience of complex parts to a high standard.
+Proficiency in measurement and metrology in support of setting, achieving first-off articles within tolerance and maintaining production tolerances.
+Able to interpret advanced technical drawings and models, including GD&T (geometric dimensioning and tolerancing).
+Advantageous to have an understanding and proficiency in PCDMIS CMM Software and programming, and Aberlink 3D as well.
+Proven experience in developing quality control documentation for use by production and / or assembly teams.
+Good understanding of SPC (Statistical Process Control).
+Motivated self-starter.
+
+
+As the Test Lead you will be responsible for:
+Setting up the test process and QA practice
+Develop and maintain a comprehensive test strategy and release plan for software products
+Maintain and actively lead testing capability for technical and operational Agile squads and company programmes
+Manage the engagement of testers assigned to these squads and programmes to meet delivery commitments
+Be involved in the continuous improvement of testing services
+Need to be a domain expert across ERP - ideally have experience in D365 - will consider SAP or Oracle
+Experience in:
+5+ years of experience in software testing and release management
+Strong understanding of software development life cycles and testing methodologies
+Data analysis skills, including experience with Snowflake or Big Data technologies, such as Hadoop, Spark, or Hive
+
+
+Responsibilities and Tasks: 
+
+Relationships 
+
+Develop high-performing teams through change and continuous improvement through your leadership skills and knowledge of Automated Testing best practices. 
+Projects 
+
+Have excellent communication skills, a strong customer-orientated delivery focus, proven time management and organisational skills. 
+Ensure realistic testing plans are maintained and deliver regular and accurate communication to internal stakeholders. 
+Ensure test deliverables are completed within agreed cost, timescale and resource budgets. 
+Provide time and resource estimates for testing 
+Reporting and Governance 
+
+Analyse and report on test activities, results, issues and risks, across the entire test team 
+Keep all stakeholders updated on the planning and progress of testing. 
+Implement and evolve measurements and metrics for the product and the testing team. 
+Tests 
+
+Scope, plan, deploy, and manage the testing effort for each release 
+Ensure development and execution of test plans and test cases based on the output of the design team 
+Continuously improve our test environments 
+Select the appropriate testing approach, including manual and automated testing. 
+Product 
+
+Work closely with business analysts and product owners to understand requirements 
+Collaborate with the development design and architecture teams and provide input to ensure testing will be conducted effectively within the software development lifecycle 
+Processes 
+
+Introduce and integrate industry Quality Assurance frameworks to deliver a high standard of quality/testing practices as a part of core capability management. 
+Maintaina high level of continuous learning in the latest processes and methodologies available in market. 
+Work with the General Manager - Operations to define strategic goals for the Titanium Solutions test capability and lead the implementation of these goals. 
+Implement scalable and reliable automated tests and frameworks. 
+Deploy and manage the appropriate testing framework to meet the testing mandate. 
+Collaborate across parties involved in product, systems or service design and development to enable comprehensive test coverage. 
+Identify improvements in requirements, design or specification processes to increase the effectiveness and efficiency of testing. 
+Measure and monitor applications of standards for testing. Assess risks and take preventative action. 
+Tailor processes in line with agreed standards and evaluation of methods and tools. 
+Review and improve usage and application of testing management methods and tools 
+ 
+Skills and Experience: 
+
+Roles and Experience 
+
+You are an experienced Quality Engineering, Software Quality Assurance, or Test Engineering leader and have operated in a similar role to build and grow a Quality/Testing capability. 
+You have 3+ years of experience in a QA/QE/Testing leadership capacity and 5+ years of experience in the software testing profession (ideally within a product development environment). 
+At least 1 year experience in leading test automation teams 
+A degree in Computer Science, Information Systems, Project Management, or another related field, or equivalent work experience 
+ISTQB Advanced Level Test Manager (CTAL-TM) certification 
+3+ years’ experience in automation, creating and executing scripts 
+Business Environment 
+
+You have extensive experience in managing test programmes or portfolios of work with complex test requirements and expectations. 
+You have hands-on experience in leading/managing teams across various testing activities, including manual and automated testing. 
+You have excellent test strategy, and test planningskills. 
+Proven experience leading multi-faceted teams in a fast-paced, changing environment 
+Experience testing large, distributed software systems. 
+Ability to work under pressure of tight deadlines and evolving requirements. 
+A proven track record in test management in large, complex environments 
+Strong problem solving and analytical skills 
+Communication 
+
+You are an excellent and competent communicator – both written and verbal – and can confidently speak to clients and colleagues from Executives to Engineers on the various aspects of quality/testing and engagement delivery models. 
+Monitor and report on testing progress, ensuring timely resolution of issues to meet project deadlines.  
+Maintain detailed test documentation and provide regular updates to internal stakeholders. 
+Testing Types 
+
+You have strong experience with both functional and non-functional testing principles and practices, including integration, UAT, performance, API, and database testing. 
+Experience with data migration / data migration testing 
+Experience with test environment management 
+Hardware exposure (Signature pads, kiosks) and installing software components 
+In-depth knowledge of testing methodologies, including integration, performance, and regression testing. 
+
+
+
+Lead and manage the end-to-end testing activities of telco network projects or a set of tasks
+Work with key stakeholders to identify the best process of testing delivery including identifying the areas of automation
+Maintain an overall awareness of all testing status, focused on issues arising and ensuring appropriate solutions are developed
+Lead and oversight of test analysts, delegate tasks and provide direction, feedback and accountability.
+Collaborate with the team and wider Technology team on process and continuous improvement of testing framework & processes
