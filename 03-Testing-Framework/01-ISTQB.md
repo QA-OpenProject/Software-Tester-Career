@@ -19,6 +19,7 @@
     - Integrate testing in the development stage("shift-left":test early and often, TDD, BDD, Agile)
   ![Shift-Left](./../99-Resources/SDLC-V-Model.png)
     - Use test-oriented development practices(Pair Programming, TDD, CI/CD)
+  ![TDD](../99-Resources/TDD.png)
     - Adequate reporting of testing progress and results
     - Comprehensive testing coverage
     - Test on real devices
@@ -128,6 +129,7 @@
   - Managing Formal Reviews
 - Defect Management
   - Defect Lifecycle and the Software Development Lifecycle
+![Defect-Lifecycle](./../99-Resources/Defect-Life-Cycle.png)
   - Defect Report Information
   - Assessing Process Capability with Defect Report Information
 - Improving the Testing Process
@@ -202,3 +204,5 @@
 ### ISTQB-CTFL-AT(ISTQB Certified Tester Foundation Level - Agile Tester)
 ### ISTQB-CTAL-AT(ISTQB Certified Tester Advanced Level - Agile Tester)
 ### ISTQB-CTAL-ATTA(ISTQB Certified Tester Advanced Level - Agile Technical Tester)
+
+![Smoke-Sanity-UAT](../99-Resources/Smoke-Sanity-UAT-Test.png)
