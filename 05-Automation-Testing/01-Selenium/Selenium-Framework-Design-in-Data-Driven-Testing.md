@@ -42,6 +42,14 @@
 - Common Methods
 - Wrap up on base classes
 ### 3.4. Designing and Building Subclasses for Feature-Specific Pages using inheritance techniques
+### 3.5. Encapsulation and using getter/setter methods to retrieve objects from the page object classes
+### 3.6. Exception handling and synchronization in page object classes methods
+- Implict exception handling
+- Explicit exception handling
+- Synchronization
+- Try...Catch handling
+### 3.7. Table classes
+### 3.4. Designing and Building Subclasses for Feature-Specific Pages using inheritance techniques
 ## 4. Defining WebDriver and AppiumDriver Page Object Elements
 ## 5. Building a JSON Data Provider
 ## 6. Developing Data-Driven Test Classes
