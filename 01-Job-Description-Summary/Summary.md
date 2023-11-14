@@ -244,3 +244,125 @@ Work with key stakeholders to identify the best process of testing delivery incl
 Maintain an overall awareness of all testing status, focused on issues arising and ensuring appropriate solutions are developed
 Lead and oversight of test analysts, delegate tasks and provide direction, feedback and accountability.
 Collaborate with the team and wider Technology team on process and continuous improvement of testing framework & processes
+
+
+
+
+
+//Principal Test Analyst
+A minimum of 10 years of technical Quality Assurance expertise with a strong technical background in developing automation testing frameworks from scratch.
+Solid expertise in driving the strategic direction and technical roadmap of our software automation, performance and integration toolset.
+You have extensive hands-on experience in leading the testing delivery within the program or project in both technical side and the delivery side.
+A wealth of experience in providing technical testing directions for the development, design and systems integration testing solutions from definition phase through to implementation.
+You have extensive hands-on experience with Java, Web, Mobile, REST and SOAP APIs.
+Prior experience in agile and lean software development methodologies including Kanban and Scrum.
+You enjoy challenging the status quo, be outside your comfort zone and thrive with new challenges and learnings.
+Strong leadership skills, including providing guidance and mentorship to team members and driving a culture of experimentation, innovation and cross-functional collaboration.
+
+//senior test analyst
+Senior level QA / testing experience in automation practices
+Strong Java programming skills
+Strong understanding of microservices and API testing
+Experienced mentoring and upskilling a wider team in automation based practices
+Familiar working to Agile practices and methodologies (Scrum, TDD, BDD or Kanban)
+Excellent communication and interpersonal skills
+
+
+// Test Lead
+Lead and mentor a team of QA Test Engineers, fostering their growth and development
+Actively participate in testing efforts, contributing to both automated and manual testing activities
+Collaborate with delivery squads to design, implement, and execute component, integration, and end-to-end tests
+Ensure thorough testing of all requirements, features, and user stories, including both functional and nonfunctional aspects
+Work closely with the QA team to enhance automated and manual test suites, focusing on quality, security, and scalability of APIs in dynamic environments
+Provide guidance and support to peers to continually improve QA capabilities
+Design, document and implement API and Mobile test cases
+Maintain and enhance Test Automation frameworks
+Utilise CI/CD toolsets to achieve rapid quality assessment
+Prioritise and conduct Non-Functional Testing
+Demonstrate understanding of Security testing principles
+
+//Engineering Quality Practice Lead
+Responsibilities:
+
+Lead and mentor a team of QA professionals, fostering a culture of collaboration, innovation, and continuous improvement.
+Define and implement best practices for quality assurance, with a specific focus on Behaviour-Driven Development (BDD) principles and methodologies.
+Collaborate closely with cross-functional teams, including developers, product managers, and business analysts, to understand requirements and translate them into test scenarios and acceptance criteria.
+Conduct training sessions and workshops to educate and empower team members on BDD practices
+Establish and maintain a robust test automation framework, leveraging appropriate technologies and tools to improve testing efficiency, accuracy, and reliability.
+Stay up-to-date with the latest industry trends, tools, and methodologies in quality assurance and BDD, and proactively identify opportunities to enhance our testing practices.
+Act as a subject matter expert, providing guidance and support to resolve complex testing challenges and ensure the delivery of high-quality software solutions.
+
+About You:
+
+Possess a robust testing background complemented by an engineering mindset that embraces end-to-end quality across the Software Development Life Cycle.
+
+Accomplished Quality Assurance professional, well-versed in testing methodologies and deeply knowledgeable about Behaviour-Driven Development (BDD)? Are you driven by a passion to elevate software quality and lead teams in delivering top-notch solutions.
+
+Experience in collaboration and working closely with value stream leaders, technology experts, architecture, security, and vendor teams to define solution architecture and design.
+
+Skills and Capabilities
+
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+Extensive experience in Quality Assurance and Software Testing, with a strong background in Behaviour-Driven Development (BDD) principles and practices.
+Proficiency in BDD tools and frameworks, such as Cucumber, SpecFlow, or Behat.
+Solid understanding of test automation frameworks and tools, such as Selenium or Appium
+Strong leadership and team management skills, with the ability to inspire and motivate a team to achieve exceptional results.
+Excellent problem-solving and analytical thinking abilities, with a focus on delivering comprehensive and efficient test strategies.
+Excellent communication and collaboration skills, with the ability to effectively convey technical concepts and QA strategies to both technical and non-technical stakeholders.
+Experience working in Agile development environments and familiarity with Agile methodologies.
+Certification in BDD, Agile Testing, or related areas is a plus.
+
+
+//Senior Test Analyst
+Role Responsibilities Include:
+
+Refining business requirements and specifying conditions of satisfaction that software will need to pass
+Performing Quality Assurance by designing and performing automated software tests
+Creating and leading manual test efforts, and assisting Developers with test automation
+Demonstrating working software to clients regularly and collaborating with Developers and Product owners to integrate feedback as required
+Managing the process of releasing changes
+ 
+
+Skills and Experience Required:
+
+7 + years of experience as a Software Quality Analyst
+Recent experience as a Senior or Lead Quality Analyst
+Commercial experience and knowledge that enables you to describe what ‘done’ looks like
+Technical troubleshooting including log file analysis and basic data analysis
+Relevant experience in designing test strategies and test plans based around acceptance criteria
+Experience working with clients to define user stories and confirm acceptance criteria
+Experience in analysing data to draw business-relevant conclusions
+Experience using data visualisation techniques and tools
+Strong written and verbal communication skills, including technical writing
+ 
+
+Benefits of joining Propellerhead:
+
+Work within our beautifully design Auckland office and/or from the comfort of your home (hybrid working model). If you are based in Auckland, you will be required to work from the office (Freemans Bay location) at least one day per week
+Contribute to interesting, diverse, and commercially minded work for well-respected clients
+Join a Developer-led organisation full of world-class colleagues
+Join a culture of learning and collaboration
+Propellerhead is an equal opportunity workplace which is free from discrimination
+ 
+ 
+Cover Letter
+
+Please note - only applications with a cover letter will be reviewed. Please ensure you specify your location, and whether you wish to work in Auckland or work remotely. 
+
+It's important to us that you submit a cover letter with your application - it's your chance to tell us more about who you are and what you value.
+
+
+
+//Automation Test Analyst
+3+ years Engineering and/or hard-/software/development testing experience using testing methodologies and processes
+2+ years of Java or C++ experience
+Tertiary qualification in engineering/electronics
+Understanding of the software development lifecycle
+Testing of Embedded Software
+Experience working with Agile development methodology
+Able to demonstrate an example of testing maturity with regards to measurability and repeatability
+Excellent communication skills both written and verbal
+Desirable experience of projects within the retail petroleum automation sector /payments systems
+No restrictions to travel
+
+
