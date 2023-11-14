@@ -365,4 +365,72 @@ Excellent communication skills both written and verbal
 Desirable experience of projects within the retail petroleum automation sector /payments systems
 No restrictions to travel
 
+Relevant experience in using Postman; Selenium; C# & SQL
+API testing experience; web application experience 
+Large integration projects such as integrating with portals 
+Great communication and enjoy collaborating with a team 
+Start thrid week in December 
 
+Proven experience in software manual and automation testing
+Proficiency in test automation tools and frameworks
+Experience with programming language – Python
+Docker (Linux environment)
+Proven experience in testing APIs/Microservices
+Experience with continuous integration and deployment pipelines
+Agile and scrum methodologies
+Test management and defect tracking tool ( e.g. JIRA and Test Rail)
+
+//Test Analyst
+Vital for this role is at least 3-5 years of technical testing experience in Agile environment. (Web, APIs, Legacy, etc.)
+Previous experience with system, integration, regression, end-to-end testing and UAT support.
+Understanding of continuous integration and release pipelines with Azure DevOps or similar.
+Ideally previous experience maintaining Automated tests using C# Selenium / API Rest Sharp and Postman or similar tools.
+Preferably you have a Comp Science degree or similar.
+At least one ISTQB / Agile Testing certification.
+
+You will be quality assuring our great mobile services on our advance mobile network, from test execution, defect management and test reporting
+
+There are no consecutive days alike! You will be either working on a small piece of work or supporting a project teams' testing activities from systems requirements gathering to test closure of projects delivery
+
+Develop quality testing documentation from test scripts & test cases, logging test results, defects and issues into our test management tool and defect management tool.
+
+Support testing through efficient test execution either through manual or automation testing using our planned test environments and locations.
+
+Work with other test team members and support our engineers on projects and BAU test activities
+
+Proven experience in software testing and quality assurance.
+Proficiency in developing and executing automated test scripts.
+Strong knowledge of performance testing and monitoring tools, preferably Sentry.
+Experience in practice improvement initiatives.
+Ability to identify and resolve technical incidents.
+Strong analytical and problem-solving skills.
+
+Bachelors in Software Engineering or equivalent
+2 years’ experience in CI and Automation testing, ideally using Jenkins
+Proficiency in at least one language e.g. Python, Java or C# essential
+Experience with Selenium + Appium
+Database API skills + fundamental knowledge
+Experience with Docker/Linux/Windows Platform
+
+At least 2 years experience as a Quality Analyst / Software Tester
+Familiarity with Confluence, Bitbucket and JIRA
+Experience working with Agile Methodologies
+Experience with automation testing with Selenium is preferred
+API testing with tools like Postman will be advantageous
+
+A minimum of 8 years of experience as a Software Quality Analyst.
+- A minimum of 2 years of experience as a Senior or Lead Quality Analyst.
+- Strong commercial experience and expertise, allowing you to define the criteria for project completion.
+- Proficiency in technical troubleshooting, including log file analysis and basic data examination.
+- Relevant experience in devising test strategies and plans aligned with acceptance criteria.
+- Experience collaborating with clients to define user stories and validate acceptance criteria.
+- Competence in data analysis to derive business-relevant insights.
+- Familiarity with data visualization techniques and tools.
+- Excellent written and verbal communication skills, including technical writing.
+
+The ability to influence and persuade people, gaining their trust and respect
+Confidence working with clients and senior leaders, professional and diplomatic
+Experience with BDD and modern test automation approaches
+Building modern automation frameworks, both for UI and API in at least one programming language – preferably Playwright/Typescript, but any programming language will be ok.
+In businesses with customer-facing applications, especially “Software as a Service” or heavily technology-enabled products and services.
+Familiarity with iterative development practices like Scrum or Kanban.
