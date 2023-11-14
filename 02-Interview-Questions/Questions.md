@@ -15,3 +15,11 @@
 - How do you test the login page of a website?
 - How do you test a pen?
 - How do you approach the Agile according to user stories?
+
+## Advanced Questions
+- How can be a good tester?
+- How do you montor junior testers?
+- How do you improve your testing skills?
+- How do you manage the team?
+- How do you improve the testing process?
+- How do you analyze the test results?
