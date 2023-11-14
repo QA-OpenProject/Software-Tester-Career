@@ -23,3 +23,4 @@
 - How do you manage the team?
 - How do you improve the testing process?
 - How do you analyze the test results?
+- How does AI influence the testing process?
