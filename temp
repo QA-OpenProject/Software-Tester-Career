@@ -1,0 +1,79 @@
+Hello, I'm [Your Name], a seasoned Quality Analyst with a decade of experience in both Waterfall and Agile methodologies. I bring a strong understanding of SDLC and STLC, proficiency in Test Strategy Design, Test Case Scripting, and a comprehensive background in various testing types, including Smoke, Integration, System, Regression, and Beta Testing for Web, App, and API.
+
+In my current role as a Senior Quality Analyst at MDearth.io, I lead the implementation of quality control for software solutions, defining high-level test strategies and setting up testing environments on AWS. My experience extends to DevOps, utilizing Jenkins and GitHub Action CI/CD for efficient pipelines. I'm well-versed in automation testing, designing and maintaining automated test scripts using Cucumber for BDD.
+
+Previously, at Aion Logistic Technologies Ltd., I collaborated with delivery squads, conducted end-to-end tests, and provided guidance to ensure a cohesive and high-performing testing team. My expertise spans web testing, API testing with Postman, and app testing with Appium.
+
+As a QA Team Lead at iSoftStone Corp., I refined business requirements into testing plans, led and mentored QA Test Engineers, and focused on non-functional testing, including Wi-Fi Performance and Document Testing. I also played a key role in process improvement, emphasizing automated testing, clear standards, and a culture of continuous improvement.
+
+Throughout my career, I've been dedicated to mentoring and uplifting teams in their testing capability, showcasing my commitment to continuous learning and improvement. My experience includes automation testing with tools like Selenium and TCL for IoT devices.
+
+I hold a Master's in Business Informatics from ICL Graduate Business School and a Bachelor's in Computer Science from Wuhan Institute of Technology.
+
+Now, I'm excited about the opportunity at GoSee. With over 2 years of experience as a Quality Analyst/Software Tester, I am well-versed in Agile methodologies, familiar with Confluence, Bitbucket, and JIRA, and have experience with automation testing using Selenium. I am eager to bring my skills and passion for driving software quality to GoSee's dynamic digital team.
+
+
+
+
+
+
+Here's a comprehensive guide on how to define a test strategy:
+1. Understand the Requirements:
+Thoroughly understand the project requirements and specifications.
+Identify the functionalities, features, and user expectations.
+
+2. Define Test Objectives:
+Clearly articulate the testing objectives.
+Identify what aspects of the software need to be tested, such as functionality, performance, security, etc.
+
+3. Identify Testing Types:
+Choose testing types based on project needs (e.g., functional testing, performance testing, security testing).
+Determine whether manual testing, automated testing, or a combination will be used.
+
+4. Define Test Levels:
+Identify different levels of testing (e.g., unit testing, integration testing, system testing, acceptance testing).
+Specify the entry and exit criteria for each level.
+
+5. Select Test Techniques:
+Choose appropriate testing techniques (e.g., black-box testing, white-box testing, grey-box testing).
+Define the criteria for selecting test cases.
+
+6. Allocate Resources:
+Determine the human and technical resources required for testing.
+Assign responsibilities to team members.
+
+7. Define Test Environment:
+Specify the testing environment, including hardware, software, network configurations, and data.
+Ensure that the test environment mirrors the production environment as closely as possible.
+
+8. Test Data Management:
+Plan for test data requirements.
+Define strategies for data creation, data usage, and data privacy.
+
+9. Test Execution Schedule:
+Develop a detailed test execution schedule.
+Define the sequence of testing phases.
+
+10. Risk Analysis and Mitigation:
+Identify potential risks related to testing.
+Develop strategies for risk mitigation and contingency plans.
+
+11. Defect Tracking and Reporting:
+Establish a process for defect tracking, reporting, and resolution.
+Define the criteria for defect severity and priority.
+
+12. Review and Approval:
+Review the test strategy with stakeholders.
+Obtain approval from relevant parties before execution.
+
+13. Documentation:
+Document the test strategy comprehensively.
+Ensure that all team members have access to and understand the test strategy.
+
+14. Continuous Improvement:
+Incorporate feedback and lessons learned from previous testing phases.
+Continuously refine and improve the test strategy based on project evolution.
+
+15. Communication Plan:
+Develop a communication plan for sharing testing progress and results.
+Establish regular communication channels with stakeholders.
