@@ -1,3 +1,10 @@
+## What hiring manager is looking for
+- **Testing Knowledge**: Understand the basic testing concepts and the testing process
+- **Creative Test Case Generation**: Ability to generate test cases for different scenarios
+- **Passion for Testing**: Show your passion for testing and how you can improve the testing process
+- **Customer Advocacy**: Understand the customer's needs and advocate for them
+- **Critical Thinking**: Ability to think critically and solve problems
+
 ## Coffee Interview (About me and company)
 - Tell me about yourself
 - What's the specific reason for choosing us?
@@ -33,6 +40,15 @@
 - Priority can we negative, zero & common?
 - If in TestNG all the test cases have the same priority which test case will run first?
 - Why unit testing is preferable?
+- How do you write test Plan?
+- How do you write test cases?
+- What are the components of a good bug?
+
+## Coding Questions
+- Write a program to reverse a string
+- Write a program to find the second largest number in an array
+- Write a program to find the missing number in an array
+- Write a program to find the duplicate number on a given integer array
 
 ## Scenario-based questions
 - How do you test the login page of a website?
