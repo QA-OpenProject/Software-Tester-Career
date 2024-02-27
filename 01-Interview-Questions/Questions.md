@@ -48,8 +48,36 @@
 - Record yourself and review the video
   - Keep trying if you can't generate enough test cases for at least 10 minutes
 
+--------------------------------------------
 
 ## Coffee Chat Interview (Informational Interview: About me and company)
+### Goal: Get to know the company and the team through your thoughtful questions
+### Structure of the Interview
+- Introduction Self and Purpose
+- Have 10-15 questions prepared
+- Make "Ask" if conversation goes well
+### 4 Types of Questions you need to ask
+- About tasks and responsibilities
+  - What aspect of your job do you find most rewarding/challenge?
+  - How is your performance measured?
+- About career path
+  - How did you begin your career?
+  - If you think about a new hire you enjoyed working with, what are some of their characteristics that come to mind?
+  - What did you find the most surprising about the role?
+- About Company Culture
+  - What is the company culture like?
+  - What is the most important thing you have learned since joining the company?
+- About Industry Knowledge
+  - What publications do you read to keep up with the industry?
+  - What are some current events in the industry that you find interesting?
+### Must-Ask Questions
+- Based on what we disscussed today, is there anyone else you think I should talk to?
+- Based on the knowledge you have about me, do you have any advice for navigating the hiring process?
+### Regurgitate the points of the conversation
+
+--------------------------------------------
+
+## Behavior Questions
 - Tell me about yourself
 - What's the specific reason for choosing us?
 - What are your strengths/weaknesses?
@@ -64,18 +92,6 @@
 - Why do you choose QA as your career?
 - What's your salary expectation?
 - Any offer you are having at the moment?
-### 3 Types of Questions you need to ask
-- About tasks and responsibilities
-  - What aspect of your job do you find most rewarding/challenge?
-- About career path
-- About Industry Knowledge
-### Sample Tasks and Responsibilities Questions
-### Sample Career Path Questions
-### Sample Company Culture Questions
-### Sample Industry Kownledge Questions
-### Non-Negotiables Questions
-
-## Behavior Questions
 - The most difficult situation you have had to deal with in your last project?
 - How can you be a good tester?
 - How do you mentor junior testers?
@@ -88,6 +104,8 @@
 - How do you analyze the test results?
 - How does AI influence the testing process?
 - Do you have any experience with cloud (AWS/Azure)?
+
+--------------------------------------------
 
 ## Technical Questions
 - What is the difference between `Whitebox` and `Blackbox`?
@@ -131,6 +149,8 @@
 - If the company ask you to set up a testing centre of excellence, what will you do?
 - When your website is experiencing a performance issue, how do you make the root cause analysis?
 - For example, if you have 100 test cases and all of the test cases are dependent on the first case, is it a good approach?
+
+--------------------------------------------
 
 ## Ask Back
 - Could you introduce a little about the peers in the same team?
