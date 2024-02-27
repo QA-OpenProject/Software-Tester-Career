@@ -5,7 +5,51 @@
 - **Customer Advocacy**: Understand the customer's needs and advocate for them
 - **Critical Thinking**: Ability to think critically and solve problems
 
-## Coffee Interview (About me and company)
+## General approach to any question
+1. Ask thoughtful questions to understand the problem
+2. Break down the problem into smaller parts
+   1. Behavioral Questions: STAR method (Situations, Tasks, Actions, Results)
+3. Complete the answer
+4. Optimize the solution if possible
+5. Smile and have fun!
+
+### Test a pen
+1. Know the customer and product
+   - Customer: Know who will use the product
+     - School: art students? how dark/thick? age of student?
+     - Office: how long will it be used? how many times per day?
+     - Prison: can't be used as a weapon
+     - Intelnational: what language? which color?
+   - Product: Know the requirements and product
+     - How it works: how to use it? how to refill it?
+     - What components it has: ink, pen tip, pen body, pen cap, pen cli
+2. Creative Test Case Generation
+   - Functional Test
+     - Write on different surfaces: paper, glass, wood, skin
+     - Write in different environments: hot, cold, wet, dry
+     - Write in different positions: vertical, horizontal, upside down
+     - Negative Test
+       - Drop it from different heights
+       - Write on skin, under water, metal or glass
+   - Non-functional Test
+     - Performance: how long can it be used before sharpening? how many times can it be used? temperature, bend break point?
+     - Security: can't be used as a weapon, lead toxicity?
+     - Usability: how easy to use? how easy to refill?
+     - Accessibility: can be used by left-handed people? hand/finger size? feels different for different people?
+     - Internationalization: can be used in different languages? colors offensive to the culture?
+3. Optimize the answer
+   - Use automation to test the performance
+   - Use different tools to test the lead toxicity
+   - Use different people to test the usability and accessibility
+
+### Practice!Practice!Practice!
+- Test an app/functionalities/random objects
+- Count the number of test cases you can generate
+- Record yourself and review the video
+  - Keep trying if you can't generate enough test cases for at least 10 minutes
+
+
+## Coffee Chat Interview (Informational Interview: About me and company)
 - Tell me about yourself
 - What's the specific reason for choosing us?
 - What are your strengths/weaknesses?
@@ -13,7 +57,6 @@
 - Why do you leave your current job?
 - Who did you report to? Name and Position
 - What's your responsibility for previous work?
-- The most difficult situation you have had to deal with in your last project?
 - What are your career five-year goals?
 - What's your ideal work environment? (peers, tech)
 - How do you handle stress?
@@ -21,6 +64,30 @@
 - Why do you choose QA as your career?
 - What's your salary expectation?
 - Any offer you are having at the moment?
+### 3 Types of Questions you need to ask
+- About tasks and responsibilities
+  - What aspect of your job do you find most rewarding/challenge?
+- About career path
+- About Industry Knowledge
+### Sample Tasks and Responsibilities Questions
+### Sample Career Path Questions
+### Sample Company Culture Questions
+### Sample Industry Kownledge Questions
+### Non-Negotiables Questions
+
+## Behavior Questions
+- The most difficult situation you have had to deal with in your last project?
+- How can you be a good tester?
+- How do you mentor junior testers?
+- How do you upgrade your testing skills?
+- Tell me a time that you disagree with your manager.
+- How do you build the test plan? (with different components and from large ideas to breakdown details)
+- What's your previous testing process? Where do you want to improve during this process if you can redo this project?
+- How do you manage the team?
+- How did you improve the testing process in your last project?
+- How do you analyze the test results?
+- How does AI influence the testing process?
+- Do you have any experience with cloud (AWS/Azure)?
 
 ## Technical Questions
 - What is the difference between `Whitebox` and `Blackbox`?
@@ -40,6 +107,12 @@
 - Priority can we negative, zero & common?
 - If in TestNG all the test cases have the same priority which test case will run first?
 - Why unit testing is preferable?
+- How to test a pen or calculator? or anything?
+  - Know the who are the customers and how to use it?
+  - Know the requirements and product (how it works and what components it has)
+  - Generate the test cases for each component and each type of test
+    - Functional, Non-functional, Performance, Security, etc.
+    - Be creative and think about the edge cases
 - How do you write test Plan?
 - How do you write test cases?
 - What are the components of a good bug?
@@ -59,19 +132,6 @@
 - When your website is experiencing a performance issue, how do you make the root cause analysis?
 - For example, if you have 100 test cases and all of the test cases are dependent on the first case, is it a good approach?
 
-## Advanced Questions
-- How can you be a good tester?
-- How do you mentor junior testers?
-- How do you upgrade your testing skills?
-- Tell me a time that you disagree with your manager.
-- How do you build the test plan? (with different components and from large ideas to breakdown details)
-- What's your previous testing process? Where do you want to improve during this process if you can redo this project?
-- How do you manage the team?
-- How did you improve the testing process in your last project?
-- How do you analyze the test results?
-- How does AI influence the testing process?
-- Do you have any experience with cloud (AWS/Azure)?
-
 ## Ask Back
 - Could you introduce a little about the peers in the same team?
 - What's the team looking like?
@@ -83,3 +143,19 @@
 - Don't ask questions at the end of interview
 - Just applied for any job
 - Resume Typos
+
+## Code Challenge
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeSignal](https://codesignal.com/)
+- [CodeWars](https://www.codewars.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [CodeChef](https://www.codechef.com/)
+- [Exercism](https://exercism.io/)
+- [Project Euler](https://projecteuler.net/)
+- [Coderbyte](https://coderbyte.com/)
+- [CodeFights](https://codefights.com/)
+- [CodeAbbey](http://www.codeabbey.com/)
+- [CodeEval](https://www.codeeval.com/)
+- [CodeKata](http://codekata.com/)
+- [CodeForces](http://codeforces.com/)
