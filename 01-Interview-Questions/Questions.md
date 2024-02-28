@@ -78,13 +78,14 @@
 --------------------------------------------
 
 ## Behavior Questions
-- Tell me about yourself (not history, but the major skills and achievements)
+- Tell me about yourself (not history, but the major skills and achievements through story)()
 - What's the specific reason for choosing us?
 - What are your strengths/weaknesses?
 - Why should we hire you?
 - Why do you leave your current job?
 - Who did you report to? Name and Position
 - What's your responsibility for previous work?
+- What's your day-to-day work?
 - What are your career five-year goals?
 - What's your ideal work environment? (peers, tech)
 - How do you handle stress?
