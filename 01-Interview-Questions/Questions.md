@@ -78,7 +78,7 @@
 --------------------------------------------
 
 ## Behavior Questions
-- Tell me about yourself
+- Tell me about yourself (not history, but the major skills and achievements)
 - What's the specific reason for choosing us?
 - What are your strengths/weaknesses?
 - Why should we hire you?
