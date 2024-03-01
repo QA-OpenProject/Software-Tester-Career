@@ -77,7 +77,7 @@
 
 --------------------------------------------
 
-## Behavior Questions
+## Behavior Questions (Be yourself and be honest)
 - Tell me about yourself (not history, but the major skills and achievements through story)()
 - What's the specific reason for choosing us?
 - What are your strengths/weaknesses?
