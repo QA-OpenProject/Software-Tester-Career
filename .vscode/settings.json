@@ -4,5 +4,6 @@
         "**/README.md",
         "**/*.txt",
         "**/*.md"
-    ]
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
 }
