@@ -24,3 +24,5 @@
    - Use 'try-catch' block to handle the exception
    - Use 'PageFactory' to initialize the elements
    - Use 'Explicit Wait' to wait for the element to be present
+6. What is the difference between 'Xpath' and 'CSS Selector'?
+7. What is the difference between 'findElement' and 'findElements'?
