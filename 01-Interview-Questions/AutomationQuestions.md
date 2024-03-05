@@ -90,3 +90,58 @@
 15. What are the differents between StringBuffer and StringBuilder?
     - StringBuffer is synchronized, but StringBuilder is not
     - StringBuffer is slower than StringBuilder
+16. What are the advantages of Selenium in automation testing world?
+    - Open Source
+    - Support for multiple languages
+    - Support for multiple browsers
+    - Support for multiple OS
+    - Support for parallel execution
+    - Support for distributed testing
+    - Support for headless testing
+    - Support for cloud testing
+    - Support for CI/CD
+    - Support for multiple frameworks
+    - Support for multiple testing types
+    - Support for multiple testing tools
+    - Support for multiple reporting tools
+    - Support for multiple version control tools
+    - Support for multiple build tools
+    - Support for multiple project management tools
+    - Support for multiple bug tracking tools
+    - Support for multiple test management tools
+    - Support for multiple test data management tools
+    - Support for multiple test environment management tools
+    - Support for multiple test execution management tools
+    - Support for multiple test result management tools
+    - Support for multiple test case management tools
+    - Support for multiple test plan management tools
+    - Support for multiple test suite management tools
+    - Support for multiple test scenario management tools
+    - Support for multiple test step management tools
+    - Support for multiple test run management tools
+    - Support for multiple test cycle management tools
+    - Support for multiple test set management tools
+    - Support for multiple test log management tools
+    - Support for multiple test report management tools
+    - Support for multiple test dashboard management tools
+    - Support for multiple test chart management tools
+    - Support for multiple test graph management tools
+    - Support for multiple test metric management tools
+    - Support for multiple test KPI management tools
+    - Support for multiple test trend management tools
+    - Support for multiple test analysis management tools
+    - Support for multiple test improvement management tools
+    - Support for multiple test automation management tools
+    - Support for multiple test maintenance management tools
+    - Support for multiple test monitoring management tools
+    - Support for multiple test control management tools
+    - Support for multiple test governance management tools
+    - Support for multiple test compliance management tools
+    - Support for multiple test risk management tools
+    - Support for multiple test security management tools
+    - Support for multiple test privacy management tools
+    - Support for multiple test confidentiality management tools
+    - Support for multiple test integrity management tools
+    - Support for multiple test availability management tools
+    - Support for multiple test resilience management tools
+    - Support for multiple test performance management tools
