@@ -25,4 +25,68 @@
    - Use 'PageFactory' to initialize the elements
    - Use 'Explicit Wait' to wait for the element to be present
 6. What is the difference between 'Xpath' and 'CSS Selector'?
+   - XPath is slower than CSS Selector
+   - XPath supports text, but CSS Selector does not
+   - XPath can move in both forward and backward direction, but CSS Selector can move only in the forward direction
 7. What is the difference between 'findElement' and 'findElements'?
+8. How to access the CSS selector using the nth element?
+   Here is a syntax for using the CSS selector using the nth element: <type>: nth-child(n)
+   Example: input:nth-child(2)
+9. How to handle the alerts in Selenium?
+   - Use 'Alert' interface to handle the alerts: 
+  ```java
+  Alert alert = driver.switchTo().alert();
+  ```
+   - Use 'accept()', 'dismiss()', 'getText()', 'sendKeys("String")' methods to handle the alerts
+10. What are the different exceptions you faced in Selenium?
+    - NoSuchElementException
+    - NoSuchFrameException
+    - NoAlertPresentException
+    - NoSuchWindowException
+    - StaleElementReferenceException
+    - ElementNotVisibleException
+    - ElementNotSelectableException
+    - ElementNotInteractableException
+    - TimeoutException
+    - WebDriverException
+    - SessionNotCreatedException
+    - InvalidSelectorException
+    - IllegalStateException
+11. What is framework? What are the different types of frameworks?
+    - A framework is a set of guidelines, coding standards, concepts, practices, processes, project hierarchies, modularity, reporting mechanism, test data injections, etc. to build a software application.
+    - Types of frameworks:
+      - Data-Driven Framework
+      - Keyword-Driven Framework
+      - Hybrid Framework
+      - Behavior Driven Development (BDD) Framework
+12. How ro run Tests in Headless Mode with Chrome?
+    - Use 'ChromeOptions' to run the tests in headless mode:
+  ```java
+  ChromeOptions options = new ChromeOptions();
+  options.addArguments("--headless");
+  WebDriver driver = new ChromeDriver(options);
+  ```
+13. How to handle windows-based alerts/popups in Selenium?
+    - Use 'Robot' class to handle the windows-based alerts/popups
+    - Use 'AutoIT' tool to handle the windows-based alerts/popups
+14. What are the Listeners in Selenium?
+    - Listeners are used to generate logs and reports
+    - Types of Listeners:
+      - WebDriver Listeners
+        - WebDriverEventListener
+        - TestListener
+        - IInvokedMethodListener
+        - ITestListener
+      - TestNG Listeners
+        - IAnnotationTransformer
+        - IAnnotationTransformer2
+        - IConfigurable
+        - IHookable
+        - IInvokedMethodListener
+        - IMethodInterceptor
+        - IReporter
+        - ISuiteListener
+        - ITestListener
+15. What are the differents between StringBuffer and StringBuilder?
+    - StringBuffer is synchronized, but StringBuilder is not
+    - StringBuffer is slower than StringBuilder
