@@ -105,6 +105,9 @@
 - How do you analyze the test results?
 - How does AI influence the testing process?
 - Do you have any experience with cloud (AWS/Azure)?
+- What would you do if developer says "It's not a bug"?
+- How do you share a bug with other team members?
+- what does Agile methodology mean to a software QA?
 
 --------------------------------------------
 
