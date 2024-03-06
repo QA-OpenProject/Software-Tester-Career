@@ -99,9 +99,9 @@
 - Why do you leave your current job?
 - What's your responsibility for previous work?
 - What's your day-to-day work?
-- What is your five-year career goals?
-  - Short-term: what you want to achieve in the next 1-2 years
-  - Long-term: what you want to achieve in the next 5-10 years
+- What is your 5 year career goals?
+  - Short-term: what you want to achieve in the next 1-2 years (API, Parallel, etc.)
+  - Long-term: what you want to achieve in the next 5-10 years (Lead, Manager, etc.)
 - What's your ideal work environment?
   - Peers: friendly, supportive, open-minded, diverse
   - Tech: cutting-edge, challenging, innovative
@@ -199,6 +199,27 @@
   - Data Validation and Integrity
   - Performance and Load Testing
   - Security Testing
+- How to report the testin results?
+  - Use the TestNG report
+- Scrum and Kanban, what's the difference? (Agile Methodology) Which one do you prefer?
+  - Scrum: Iterative and Incremental, Time-boxed, Roles, Artifacts, Ceremonies
+  - Kanban: Continuous, No Time-boxed, Visualize, Limit WIP, Manage Flow
+- What are the differences between the monolithic and microservices?
+  - Monolithic: Single Unit, Single Database, Single Codebase, Single Deployment
+  - Microservices: Multiple Units, Multiple Databases, Multiple Codebases, Multiple Deployment
+  - Here are some key differences from the testing perspective:
+    - Scope of Testing:
+      - Monolithic: Test the whole application (UI, API, Database, etc.)
+      - Microservices: Test each service separately, and test the integration.
+    - Isolation Issues:
+      - Monolithic: Hard to isolate the issue
+      - Microservices: Easy to isolate the issue
+    - Automation Testing:
+      - Monolithic: Easy to automate
+      - Microservices: Hard to automate
+    - Scalability of Testing:
+      - Monolithic: Hard to scale
+      - Microservices: Easy to scale
 
 ## Coding Questions
 - Write a program to reverse a string
