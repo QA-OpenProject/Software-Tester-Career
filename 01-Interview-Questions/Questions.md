@@ -193,7 +193,12 @@
 - How do you handle API testing?
   - Use the Postman
   - Use the RestAssured
-- 
+- What's the 5 most important things when making the API testing?
+  - Understanding API Documentation
+  - Test Coverage and Scenarios
+  - Data Validation and Integrity
+  - Performance and Load Testing
+  - Security Testing
 
 ## Coding Questions
 - Write a program to reverse a string
