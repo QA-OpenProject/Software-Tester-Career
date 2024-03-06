@@ -108,6 +108,12 @@
 - What would you do if developer says "It's not a bug"?
 - How do you share a bug with other team members?
 - what does Agile methodology mean to a software QA?
+  - Iiterative and incremental development
+  - Continuous Testing
+  - Collaborative Approach
+  - Adaptablity and Flexibility
+  - Focus on Customer Value
+  - Test Automation
 
 --------------------------------------------
 
