@@ -78,16 +78,33 @@
 --------------------------------------------
 
 ## Behavior Questions (Be yourself and be honest)
-- Tell me about yourself (not history, but the major skills and achievements through story)()
+- Tell me about yourself (not history, but the major skills and achievements through story)
+  - Experience: what you have done (Industries, Projects, Technologies, Tools, etc.)
+  - Responsibility: what you are responsible for (Planning, Execution, Mentoring, etc.)
+  - Achievement: what you have achieved
 - What's the specific reason for choosing us?
-- What are your strengths/weaknesses?
-- Why should we hire you?
+- What are your strengths? (Why should we hire you?)
+  - Technical: Automation, Manual, Performance, Security, etc.
+  - Soft: Communication, Teamwork, Problem-solving, etc.
+  - Leadership: Mentor, Lead, Manage, etc.
+  - Experience: Industries, Projects, Technologies, Tools, etc. (related to the job)
+- What are your weaknesses? (How do you overcome them?)
+- How do you handle conflicts with your team members?
+- How do you handle the conflicts with your manager?
+- How do keep you up to date with the latest testing trends?
+- What do you think is the most important quality of a tester?
+  - Attention to detail
+  - Communication
+  - Writing skills
 - Why do you leave your current job?
-- Who did you report to? Name and Position
 - What's your responsibility for previous work?
 - What's your day-to-day work?
-- What are your career five-year goals?
-- What's your ideal work environment? (peers, tech)
+- What is your five-year career goals?
+  - Short-term: what you want to achieve in the next 1-2 years
+  - Long-term: what you want to achieve in the next 5-10 years
+- What's your ideal work environment?
+  - Peers: friendly, supportive, open-minded, diverse
+  - Tech: cutting-edge, challenging, innovative
 - How do you handle stress?
 - How do you approach the new team?
 - Why do you choose QA as your career?
@@ -107,6 +124,9 @@
 - Do you have any experience with cloud (AWS/Azure)?
 - What would you do if developer says "It's not a bug"?
 - How do you share a bug with other team members?
+  - Document the bug (steps, expected result, actual result, environment, screenshot, video, log)
+  - Use the bug tracking tool (JIRA, Bugzilla, GitHub)
+  - Assign priority and severity (Priority: how soon it should be fixed; Severity: how much it affects the system)
 - what does Agile methodology mean to a software QA?
   - Iiterative and incremental development
   - Continuous Testing
@@ -114,6 +134,18 @@
   - Adaptablity and Flexibility
   - Focus on Customer Value
   - Test Automation
+- If you restart the project from scratch, what would you do differently?
+  - Requirements: more clear, more detailed, more specific
+  - Test Plan: more comprehensive, more detailed, more specific
+  - Test Cases: more comprehensive, more detailed, more specific
+  - Test Data: more comprehensive, more detailed, more specific
+  - Test Environment: more comprehensive, more detailed, more specific
+  - Test Execution: more comprehensive, more detailed, more specific
+  - Test Reporting: more comprehensive, more detailed, more specific
+  - Test Automation: more comprehensive, more detailed, more specific
+  - Test Process: more comprehensive, more detailed, more specific
+  - Test Tools: more comprehensive, more detailed, more specific
+  - Test Team: more comprehensive, more detailed, more specific
 
 --------------------------------------------
 
@@ -144,6 +176,24 @@
 - How do you write test Plan?
 - How do you write test cases?
 - What are the components of a good bug?
+- What are the differences between unit testing and E2E testing?
+- What is the role the assertion in the automation testing?
+- What's the POM and Why POM is important in automation testing?
+- How do you handle the timeout in the automation testing? (Selenium, Playwright, etc.)
+- What are the differents among 'before', 'beforeEach', 'beforeAll', 'after', 'afterEach', 'afterAll' in the automation testing?
+- How do you handle testing flakiness?
+  - Use the wait strategy
+  - Use the retry mechanism
+  - Use unique selectors
+- What are the common challenges in automation testing implementation?
+  - Which framework to use
+  - How to locate the elements
+  - Wait strategy
+  - How to setup and train your team
+- How do you handle API testing?
+  - Use the Postman
+  - Use the RestAssured
+- 
 
 ## Coding Questions
 - Write a program to reverse a string
