@@ -116,3 +116,7 @@
     - Implement the framework
     - Execute the tests
     - Generate the reports
+20. Write down the Selenium script to launch the webpage and change the language from the dropdown list.
+21. Write down the BDD feature file to test the login function.
+22. How many types of inheritance?
+23. 
