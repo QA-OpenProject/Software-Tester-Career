@@ -96,8 +96,8 @@
     - Support for multiple browsers
     - Support for multiple OS
     - Support for parallel execution
-17. What are the disadvantages of Selenium in automation testing world?
-    - No support for non-web based applications
+17. What are the disadvantages of Selenium in the automation testing world?
+    - No support for non-web-based applications
     - Timeout or Sync issues
     - Slowness in IE
     - Limited Reporting
@@ -119,4 +119,10 @@
 20. Write down the Selenium script to launch the webpage and change the language from the dropdown list.
 21. Write down the BDD feature file to test the login function.
 22. How many types of inheritance?
-23. 
+23. How to simulate the mouse hover a section which should display the date and time?
+24. Which language have you experienced and can you give a rate?
+25. How do you do the API testing through Postman?
+26. What kind of verification mechanism is used for API testing?
+27. How do you make the Postman assertions?
+28. Can you give me some common status codes and their meanings?
+29. Can you explain your automation framework briefly?
