@@ -222,9 +222,12 @@
       - Microservices: Easy to scale
 - Could you give an example to explain the inheritance of OOPS Java?
 - Could you give an example to explain the polymorphism of OOPS Java?
+- Can we give the same name for the method inside the Java class?
 - Could you give some positive and negative test cases for the payment interface?
-- Do you have experience of CI/CD?
+- Do you have experience with CI/CD?
+- Do you have experience with Agile?
 - Do you know any technology for the automation testing?
+
 
 ## Coding Questions
 - Write a program to reverse a string
@@ -235,7 +238,7 @@
 ## Scenario-based questions
 - How do you test the login page of a website?
 - How do you test a pen?
-- How do you approach the Agile according to user stories?
+- How do you approach Agile according to user stories?
 - If you are going to test an eCommerce system, what will the test plan look like from a high level?
 - If the company ask you to set up a testing centre of excellence, what will you do?
 - When your website is experiencing a performance issue, how do you make the root cause analysis?
