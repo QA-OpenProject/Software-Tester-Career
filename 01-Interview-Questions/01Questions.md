@@ -220,6 +220,11 @@
     - Scalability of Testing:
       - Monolithic: Hard to scale
       - Microservices: Easy to scale
+- Could you give an example to explain the inheritance of OOPS Java?
+- Could you give an example to explain the polymorphism of OOPS Java?
+- Could you give some positive and negative test cases for the payment interface?
+- Do you have experience of CI/CD?
+- Do you know any technology for the automation testing?
 
 ## Coding Questions
 - Write a program to reverse a string
