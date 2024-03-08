@@ -29,3 +29,10 @@
 29. List out 2 methods available in explicit wait?
 30. How to take screenshot in Selenium?
 31. How to hit enter key from WebDriver?
+32. what's the difference between driver.close() and driver.quit() in the selenium?
+    1.  close: close the current window or tab
+    2.  quit: close all the windows or tabs opened by the WebDriver instance
+33. what's the difference between implicitylyWait and explicitylyWait in the selenium?
+    1.  implicitylyWait: it is used to tell the WebDriver to wait for a certain amount of time when trying to find an element or elements if they are not immediately available
+    2.  explicitylyWait: it is used to tell the WebDriver to wait for a certain condition to occur before proceeding further in the code
+34. How to handle the dropdown in selenium?
