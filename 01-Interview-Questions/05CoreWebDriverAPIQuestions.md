@@ -35,4 +35,10 @@
 33. what's the difference between implicitylyWait and explicitylyWait in the selenium?
     1.  implicitylyWait: it is used to tell the WebDriver to wait for a certain amount of time when trying to find an element or elements if they are not immediately available
     2.  explicitylyWait: it is used to tell the WebDriver to wait for a certain condition to occur before proceeding further in the code
-34. How to handle the dropdown in selenium?
+34. How many method to open the url in the selenium?
+    1.  get():  it is used to open the url in the browser, it will wait for the page to load before returning control to your test.
+    2.  navigate().to(): it is used to open the url in the browser, it will not wait for the page to load before returning control to your test.
+35. How many types of locators in the selenium?
+    1.  Normal Locators: id, name, class, tagname, linktext, partiallinktext
+    2.  Dynamic Locators (Customized Locators): xpath (Absolute/Relative Xpath), CSS Selector
+36. j
