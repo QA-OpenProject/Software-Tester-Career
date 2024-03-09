@@ -41,4 +41,10 @@
 35. How many types of locators in the selenium?
     1.  Normal Locators: id, name, class, tagname, linktext, partiallinktext
     2.  Dynamic Locators (Customized Locators): xpath (Absolute/Relative Xpath), CSS Selector
-36. j
+36. what's the difference between absolute xpath and relative xpath in the selenium?
+    1.  Absolute XPath: starts from the root node of the document and includes the complete path to the element.
+    2.  Relative XPath:  defining their relationship to other elements
+37. Between the absolute and relative xpath, which one you are prefer and why?
+    1. Relative is performing more efficiency, because it doesn't need to traverse from root node to the end element.
+    2. If developer change any element in the absolute xpath chain, the path will be broken.
+38. jj
