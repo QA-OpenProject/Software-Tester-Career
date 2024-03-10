@@ -47,4 +47,7 @@
 37. Between the absolute and relative xpath, which one you are prefer and why?
     1. Relative is performing more efficiency, because it doesn't need to traverse from root node to the end element.
     2. If developer change any element in the absolute xpath chain, the path will be broken.
-38. jj
+38. what's the difference between navigate().to(url) and driver.get(url)?
+    1.  navigate().to(url): accept url is URL or String format.
+    2.  driver.get(url): only accept String format
+39. dd
