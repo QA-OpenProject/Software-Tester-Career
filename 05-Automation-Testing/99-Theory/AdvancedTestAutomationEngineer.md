@@ -28,8 +28,28 @@
   - Test Automation Framework (TAF)
 
 ## Preparing for Automation Testing
+- SUT Factors Influencing Automation
+- Tools Evaluation and Selection
+- Design for Testability and Automation
 
-## General Architecture of Automation Testing Frameworks
+## General Test Architecture of Automation (gTAA)
+- Introduction to gTAA
+  - Principles of gTAA
+    - Single Responsibility
+    - Extensibility (Open-Closed Principle)
+    - Replaceability (Liskov Substitution Principle)
+    - Component Segregation (Interface Segregation Principle)
+    - Dependency Inversion
+  - Structure of gTAA
+    - Test Generation
+    - Test Definition
+    - Test Execution
+    - Test Adaptation
+  
+  ![gTAA](/99-Resources/gTAA.png)
+  
+- TAA Design
+- TAA Development
 
 ## Risks and Contingences in Deployment
 
