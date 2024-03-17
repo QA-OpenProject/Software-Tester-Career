@@ -134,10 +134,51 @@
   - Integration with other third party tools
   - Visulization of results
 - Logging of TAS and SUT
+  - TAS Logging
+  - SUT Logging
 - Test Automation Reporting
+  - Contents of the report
+    - Test Execution Summary
+    - Test Execution Details
+    - Test Execution Logs
+    - Test Execution Metrics
+    - Test Execution Recommendations
+  - Publishing the reports
 
 ## Transitioning Manual Testing to Automation
+- Criteria for Automation
+  - Frequency of Execution
+  - Complexity of Automate
+  - Compatibility of tool support
+  - Maturity of test process
+  - Suitablility of automation for the stage of SDLC
+  - Sustainability of automation environment
+  - Controllability of the SUT
+- Identify steps needed to implement automation within regression testing
+- Factors to consider when implementing automation within new feature testing
+- Factors to consider when implementing automation within confirmation testing
 
 ## Verifying the TAS
+- Verifying Automatioin Test Environment Components
+  - Test tool installation, setup, and configuration
+  - Test scripts with known passes and failures
+  - Repeatability in setup/teardown of the test environment
+  - Configuration of the test environment and components
+  - Connectivity against internal and external systems
+  - Intrusiveness of automated test tools
+  - Framework components testing
+- Verifying Automation Test Suite
+  - Executing test scripts with known passes and failures
+  - Checking the test suite
+  - Verifying new tests that focus on the new features
+  - Considering the repeatability of tests
+  - Checking that there are enough verification points in the test scripts
 
 ## Continuous Improvement
+- Options for Continuous Improvement
+  - Test Automation Framework
+  - Test Automation Process
+  - Test Automation Tools
+  - Test Automation Environment
+  - Test Automation Test Suite
+- Adapting Test Automation to environment and SUT changes
