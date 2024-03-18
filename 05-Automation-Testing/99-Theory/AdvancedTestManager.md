@@ -44,10 +44,52 @@
     - Squential Development Models: waterfall, V-model
     - Iterative Development Models: RUP, Agile
   - Managing the Non-Functional Testing
+    - should consider following before Non-Functional Testing
+      - Performance Testing
+      - Security Testing
+      - Usability Testing
+      - Compatibility Testing
+      - Installability Testing
+      - Reliability Testing
+      - Maintainability Testing
+      - Portability Testing
   - Managing Experience-Based Testing
+    - Ad-hoc Testing
   - Defining and Using Test Metrics
 - Risk-Based Testing and Other Approaches for Test Prioritization and Effort Allocation
+  - Risk-Based Testing
+    - Risk Identification
+      - Expert Interviews
+      - Independent Assessments
+      - Use Risk Checklists
+      - Project Retrospectives
+      - Brainstorming
+      - Workshops
+    - Risk Assessment
+      - Qualitative Risk Assessment
+      - Quantitative Risk Assessment
+    - Risk Mitigation
+    - Risk Management
+  - Risk-Based Testing Techniques
+    - Failure Mode and Effect Analysis (FMEA)
+    - Fault Tree Analysis (FTA)
+    - Hazard Analysis
+    - Risk Assessment
+    - Risk Management
+    - Risk Mitigation
+    - Risk Monitoring
+    - Risk Reporting
+  - Other Techniques for Test Selection
+  - Test Prioritization and Effort Allocation
+    - Test Prioritization
+    - Effort Allocation
 - Test Documentation and Other Work Products
+  - Test Policy
+  - Test Strategy
+  - Master Test Plan
+  - Level Test Plan
+  - Product Risk Assessment
+  - Other Test Work Products
 - Test Estimation
 - Defining and Using Test Metrics
 - Business Value of Testing
@@ -55,11 +97,68 @@
 - Managing the Application of Industry Standards
 
 ## Reviews
+- Managing Reviews and Audits
+- Managing Reviews
+  - Review Process
+  - Review Planning
+  - Review Participants
+  - Review Reporting
+  - Review Follow-Up
+- Managing Formal Reviews
+  - Inspection
+  - Walkthrough
+  - Technical Review
+  - Management Review
+  - Audit
+- Managing Informal Reviews
+  - Peer Review
+  - Pair Review
+  - Desk Check
+  - Ad-hoc Review
+- Metrics for Reviews
 
 ## Defect Management
+- Defect Lifecycle
+- Defect Report Information
+- Assessing Process Capability
 
 ## Improving the Testing Process
+- Test Improvement Process
+- Test Process Improvement Models
+  - TPI
+  - TMMi
+  - CMMI
+  - ISO 15504
+- Improving the Test Process
+  - Test Process Assessment
+  - Test Process Improvement
+  - Test Process Improvement Planning
+  - Test Process Improvement Implementation
+  - Test Process Improvement Monitoring and Control
+  - Test Process Improvement Reporting
+  - Test Process Improvement Benefits
+- Improving the Testing Process with TMMi
+- Improving the Testing Process with TPI Next
+- Improving the Testing Process with CTP
+- Improving the Testing Process with STEP
 
 ## Test Tools and Automation
+- Tool Selection
+- Tool Lifecycle
+- Tool Metrics
 
 ## People Skills and Team Composition
+- Individual Skills
+  - Usage of Software System
+  - Knowledge of the domain or business
+  - Participation in the Testing Activities
+  - Participation in the Development Activities
+- Test Team Dynamics
+- Fitting Testing within an Organization
+- Motivation
+  - Recognition for the job accomplished
+  - Approval by the management
+  - Respect from the peers
+  - Increased responsibility and autonomy
+  - Adequate rewards for the job accomplished
+- Communication
