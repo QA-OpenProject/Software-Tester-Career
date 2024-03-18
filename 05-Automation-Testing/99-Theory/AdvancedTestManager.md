@@ -162,3 +162,5 @@
   - Increased responsibility and autonomy
   - Adequate rewards for the job accomplished
 - Communication
+  - Documentation of test activities: test plans, test cases, test results, test reports
+  - Information gathering and dissemination
