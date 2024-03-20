@@ -54,7 +54,16 @@
 - Various Connectivity Methods
 
 ## Testing Processes
+- Test Planning
+- Test Design
+- Test Execution
+- Test Closure
+- Test Reporting
 
 ## Platforms, Tools and Environment
 
 ## Automation
+- Automation Approaches
+- Automation Methods
+- Automation Tools
+- Automation Frameworks Setup
