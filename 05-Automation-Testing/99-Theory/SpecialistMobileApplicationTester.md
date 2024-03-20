@@ -49,6 +49,9 @@
   - Usability
   - Localization
   - Accessibility
+- Compability with Device Hardware
+- App Interactions with Device Software
+- Various Connectivity Methods
 
 ## Testing Processes
 
