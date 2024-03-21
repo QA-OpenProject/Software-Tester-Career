@@ -40,18 +40,30 @@
    - Use 'accept()', 'dismiss()', 'getText()', 'sendKeys("String")' methods to handle the alerts
 10. What are the different exceptions you faced in Selenium?
     - NoSuchElementException
+      - This exception occurs when an element specified by the locator cannot be found in the DOM. It usually happens when trying to interact with an element that is not present or visible on the web page.
     - NoSuchFrameException
     - NoAlertPresentException
     - NoSuchWindowException
+      - This exception occurs when attempting to switch to a window or frame that does not exist or is no longer available. It may happen if the window or frame is closed or changed after it was initially located.
     - StaleElementReferenceException
+      - This exception occurs when a previously located element is no longer attached to the DOM. It typically happens when the DOM is refreshed or modified after an element is located but before an action is performed on it.
     - ElementNotVisibleException
+      - This exception occurs when trying to interact with an element that is present in the DOM but not visible on the web page. It may happen if the element is hidden, overlapped by other elements, or outside the visible area of the page.
     - ElementNotSelectableException
     - ElementNotInteractableException
+      - This exception is thrown when an element is present in the DOM but cannot be interacted with, such as clicking, typing, or selecting. It may happen due to element attributes, such as being disabled or hidden.
     - TimeoutException
+      - This exception is thrown when a command in Selenium WebDriver does not complete within the specified timeout period. It can occur during page load, element visibility check, or other operations that require waiting.
     - WebDriverException
+      - This is a general exception class for WebDriver-related errors. It can be thrown for various reasons, such as unexpected browser behavior, network issues, or internal WebDriver errors.
     - SessionNotCreatedException
     - InvalidSelectorException
+      - This exception is thrown when an invalid or incorrect selector is used to locate elements. It may happen if the CSS selector, XPath, or other locators provided are not valid.
     - IllegalStateException
+    - UnhandledAlertException
+      - This exception occurs when trying to perform an action on a web page that has an unhandled alert dialog. It may happen if an alert, confirmation, or prompt dialog is displayed and not handled appropriately.
+    - UnexpectedTagNameException
+      - This exception is thrown when interacting with an element (e.g., input field, button) of an unexpected tag name. It may happen if the expected element type does not match the actual element type on the web page.
 11. What is framework? What are the different types of frameworks?
     - A framework is a set of guidelines, coding standards, concepts, practices, processes, project hierarchies, modularity, reporting mechanism, test data injections, etc. to build a software application.
     - Types of frameworks:
