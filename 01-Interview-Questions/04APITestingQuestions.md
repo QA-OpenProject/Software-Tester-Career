@@ -39,6 +39,8 @@
 - PATCH: Update existing information on the server.
 - OPTIONS: Get information about the communication options available for the target resource.
 
-5. dd
+5. what 's the difference between put and patch method in the API testing?
+- PUT: The PUT method is used to update an existing resource or create a new resource if it doesn't exist. It replaces the entire resource with the new data provided in the request.
+- PATCH: The PATCH method is used to update an existing resource with partial data. It only updates the specified fields in the resource, leaving the rest of the resource unchanged.
 
 
