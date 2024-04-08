@@ -43,4 +43,18 @@
 - PUT: The PUT method is used to update an existing resource or create a new resource if it doesn't exist. It replaces the entire resource with the new data provided in the request.
 - PATCH: The PATCH method is used to update an existing resource with partial data. It only updates the specified fields in the resource, leaving the rest of the resource unchanged.
 
+6. What are the major challenges faced in API testing?
+- Understanding the API documentation
+- Handling authentication and authorization
+- Testing for different data types and formats
+- Handling different request and response formats
+- Testing for error codes and error handling
+- Testing for performance and security
+- Parameter combinations and boundary value testing
+  - Testing with valid and invalid input data
+  - Testing with different data types and formats
+  - Testing with different parameter combinations
+
+1. dd
+
 
