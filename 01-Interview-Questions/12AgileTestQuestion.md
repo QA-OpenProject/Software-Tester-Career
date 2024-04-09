@@ -1,0 +1,11 @@
+## what's the agile testing process?
+- Understand the requirements/user stories
+- Create test cases according to the criterias
+- Test Plan and estimation
+- Test Design and Preparation
+- Continuous Testing during the development
+- Test Automation
+- Reporting defects
+- Regression Testing
+- Sprint Review
+- Retrospective

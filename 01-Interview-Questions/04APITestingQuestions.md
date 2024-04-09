@@ -38,6 +38,7 @@
 - DELETE: Remove information from the server.
 - PATCH: Update existing information on the server.
 - OPTIONS: Get information about the communication options available for the target resource.
+- HEAD: Retrieve the headers of a resource without the body.
 
 5. what 's the difference between put and patch method in the API testing?
 - PUT: The PUT method is used to update an existing resource or create a new resource if it doesn't exist. It replaces the entire resource with the new data provided in the request.
